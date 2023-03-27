@@ -1,4 +1,8 @@
- var y c ce i g n rk r q k x a h pi rn lev;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MODEL FILE OF A MONETARY SHOW FOR BERNANKE, GERTLER, AND GILCHRIST (1999) %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+var y c ce i g n rk r q k x a h pi rn lev;
 
 varexo en ern eg ea;
 
