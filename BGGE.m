@@ -71,7 +71,3 @@ title('r^{n}')
 subplot(2,2,4)
 plot(t,YY(:,4),'-k',t,YY2(:,4),'--k','Linewidth',1.5)
 title('rk-r')
-
-
-
-%%addpath /Applications/Dynare/5.X/matlab
