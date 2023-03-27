@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% EXECUTION FILE OF A MONETARY SHOW FOR BERNANKE, GERTLER, AND GILCHRIST (1999) %
+% EXECUTION FILE OF A MONETARY SHOCK FOR BERNANKE, GERTLER, AND GILCHRIST (1999) %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 close all
